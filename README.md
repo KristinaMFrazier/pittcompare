@@ -24,11 +24,11 @@ The main files of this repo are:
 - PittCompare.ipynb: this is the main analysis notebook
 
 
-## How to Interact with your project
+## How to Interact with this project
 The analysis is conducted in [this notebook](https://github.com/KristinaMFrazier/pittcompare/blob/master/PittCompare.ipynb), which is divided into two major sections: the first section compares Pittsburgh City demographics within its geographic context of Allegheny County and the state of Pennsylvania, while the second compares Pittsburgh with other comparable American cities.
 
 This analysis can be reproduced with similar structuring following the format of the CensusQuickFacts.csv file. but significant refactoring is required throughout the notebook if different variables or geographies are used.
 
 
-## Licensing, Authors, Acknowledgements, etc.
+## Acknowledgements
 The data used for this analysis was extracted from Census.gov's QuickFacts data tool presenting the 2019 Population Estimates and the 2015-2019 5-year American Community Census data products.
